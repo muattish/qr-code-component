@@ -18,7 +18,7 @@ body{
     filter: drop-shadow(0px 3px 30px rgba(0, 0, 0, 0.10));
 }
 .card img {
-    margin: 18px;
+    margin: 16px;
     border-radius: 10px !important;
 }
 .col-md-4 {
