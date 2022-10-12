@@ -11,31 +11,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
-## Overview
-
-### Screenshot
-
-![](./design/muattish.github.io_qr-code-component_.png)
-
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/muattish/qr-code-component)
-- Live Site URL: [Add live site URL here](https://muattish.github.io/qr-code-component/)
+- Solution URL: [https://github.com/muattish/qr-code-component](https://github.com/muattish/qr-code-component)
+- Live Site URL: [https://muattish.github.io/qr-code-component/](https://muattish.github.io/qr-code-component/)
 
 ## My process
 
@@ -44,5 +28,3 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Semantic HTML5 markup
 - CSS custom properties
 - Bootstrap
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
